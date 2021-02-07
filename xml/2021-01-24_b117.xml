@@ -1,0 +1,4156 @@
+<?xml version='1.0' encoding='latin1'?>
+<beast version="1.10.5">
+
+
+	
+	
+	<taxa id="taxa">
+		<taxon id="NC_045512.2">
+			<date value="2019.9835616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_438093">
+			<date value="2020.224043715847" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_438614">
+			<date value="2020.3032786885246" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_439664">
+			<date value="2020.2431693989072" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_442589">
+			<date value="2020.2732240437158" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_454280">
+			<date value="2020.3005464480875" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_466262">
+			<date value="2020.2650273224044" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_483654">
+			<date value="2020.4344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_515095">
+			<date value="2020.3934426229507" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_536258">
+			<date value="2020.2322404371585" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_539101">
+			<date value="2020.2513661202186" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_539105">
+			<date value="2020.2431693989072" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_545306">
+			<date value="2020.3989071038252" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_547966">
+			<date value="2020.5956284153006" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_549015">
+			<date value="2020.2431693989072" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_549022">
+			<date value="2020.2513661202186" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_552370">
+			<date value="2020.6475409836066" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_554755">
+			<date value="2020.431693989071" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_579569">
+			<date value="2020.2267759562842" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_581874">
+			<date value="2020.4234972677596" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_596271">
+			<date value="2020.6830601092897" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_602490">
+			<date value="2020.2131147540983" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_648895">
+			<date value="2020.6284153005465" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_657838">
+			<date value="2020.8524590163934" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_658409">
+			<date value="2020.8524590163934" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_661953">
+			<date value="2020.860655737705" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_664627">
+			<date value="2020.8579234972678" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_668385">
+			<date value="2020.863387978142" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_668213">
+			<date value="2020.8688524590164" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_671686">
+			<date value="2020.795081967213" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_675883">
+			<date value="2020.863387978142" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_679444">
+			<date value="2020.8879781420765" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_703469">
+			<date value="2020.8989071038252" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_709702">
+			<date value="2020.9016393442623" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_709759">
+			<date value="2020.9016393442623" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_718487">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_719035">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_719004">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_718854">
+			<date value="2020.9426229508197" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_718840">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_720588">
+			<date value="2020.877049180328" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_724147">
+			<date value="2020.8879781420765" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_725043">
+			<date value="2020.9344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_725310">
+			<date value="2020.931693989071" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_719535">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_730905">
+			<date value="2020.9344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_731877">
+			<date value="2020.9344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_731688">
+			<date value="2020.9344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_731306">
+			<date value="2020.9371584699454" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_718753">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_718810">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_719400">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_733802">
+			<date value="2020.931693989071" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_733866">
+			<date value="2020.9344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_733696">
+			<date value="2020.931693989071" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_736668">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_736690">
+			<date value="2020.9453551912568" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_736692">
+			<date value="2020.9426229508197" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_735703">
+			<date value="2020.948087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_735527">
+			<date value="2020.948087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_735578">
+			<date value="2020.948087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_736340">
+			<date value="2020.9426229508197" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_736372">
+			<date value="2020.9453551912568" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_737203">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_745197">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_756954">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_756584">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_759712">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_760398">
+			<date value="2020.9726775956285" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_760292">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_760518">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_761397">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_761514">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_763355">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_763747">
+			<date value="2020.9453551912568" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_763850">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_764080">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_764083">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_764228">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762386">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762393">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762568">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762344">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762548">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762000">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_761952">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_761993">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_761757">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762935">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762791">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_762862">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_766062">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_768820">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_768960">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_768846">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_769049">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_769019">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_769341">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_778823">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777816">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777813">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777928">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777804">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_778204">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_778339">
+			<date value="2020.948087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_778049">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_778080">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777226">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777140">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777146">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777267">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_777045">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_782090">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_782060">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_782065">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781842">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781973">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781816">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781685">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781871">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781449">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781630">
+			<date value="2020.9726775956285" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781372">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781246">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_781243">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_782401">
+			<date value="2020.9781420765028" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_783171">
+			<date value="2020.877049180328" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_782904">
+			<date value="2020.9289617486338" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_782865">
+			<date value="2020.931693989071" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_783374">
+			<date value="2020.8579234972678" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_796734">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_801518">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_802506">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_802517">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800384">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800360">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800488">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800554">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800413">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800535">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800405">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798180">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798184">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798264">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798072">
+			<date value="2020.9781420765028" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797893">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797987">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797104">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797215">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797162">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797049">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_796895">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_796963">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_796844">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800098">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_800038">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_799512">
+			<date value="2020.9726775956285" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_799396">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_799559">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_799451">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_799691">
+			<date value="2020.9781420765028" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_799291">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797656">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797284">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_797293">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798434">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798445">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798535">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798629">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798766">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798471">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798487">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798715">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798873">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798874">
+			<date value="2020.9781420765028" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_798985">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_804335">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_811994">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_811893">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_812046">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_811921">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_811981">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_811462">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_811391">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813110">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813264">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813601">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813899">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813902">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813924">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813956">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_813977">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_814294">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_814419">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_814538">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_816223">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_816275">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_816371">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_816494">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_816903">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_816934">
+			<date value="2020.9398907103825" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_817026">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_817089">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_819713">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_819760">
+			<date value="2020.9617486338798" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_819924">
+			<date value="2020.9754098360656" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_820117">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_820141">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_822854">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_823127">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_823132">
+			<date value="2020.9726775956285" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_820566">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_822308">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821908">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821680">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821343">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821746">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821770">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821775">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_821316">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_820945">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_826524">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_837122">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_837134">
+			<date value="2020.9781420765028" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_836622">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_836887">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_836666">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_836401">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_836272">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838812">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838701">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838825">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838771">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838776">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_843090">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842693">
+			<date value="2020.950819672131" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_834801">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_834938">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_834851">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_847187">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_846462">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_834195">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_834293">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_835313">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_835459">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_847924">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_835970">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_835877">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_846205">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_846056">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838691">
+			<date value="2020.9535519125684" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838576">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838591">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_838351">
+			<date value="2020.9071038251366" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842506">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842501">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842518">
+			<date value="2020.9726775956285" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842514">
+			<date value="2020.9726775956285" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842436">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842574">
+			<date value="2020.9781420765028" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842599">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842594">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842467">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_839092">
+			<date value="2021.0" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_839107">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_839174">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_839609">
+			<date value="2020.98087431694" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_839522">
+			<date value="2020.9344262295083" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_842308">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_841790">
+			<date value="2020.9562841530055" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851197">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851098">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851525">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851247">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851296">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_852508">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_852441">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_852353">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_852471">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_852360">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851902">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851928">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851971">
+			<date value="2021.0191780821917" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_851588">
+			<date value="2021.021917808219" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_855595">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_860053">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_860089">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_857580">
+			<date value="2021.0191780821917" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_857834">
+			<date value="2021.0191780821917" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_858853">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_858669">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_858582">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_751801">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_755940">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="EPI_ISL_755941">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-A02">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G09">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-H01">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G12">
+			<date value="2021.0383561643835" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-C11">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-E10">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-F01">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-C03">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-F03">
+			<date value="2021.0328767123287" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-D06">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-A10">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-F02">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-C04">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-A07">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-A07">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-A03">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-F05">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-E07">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-B04">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-B07">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-C02">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-H09">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-F08">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-C02">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-A06">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-B09">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-E01">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-F02">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-H11">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-B12">
+			<date value="2021.0328767123287" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-H08">
+			<date value="2021.0383561643835" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-E04">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-C11">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-H05">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-C01">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G06">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-B05">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-D09">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-C09">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-E01">
+			<date value="2021.0383561643835" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-C07">
+			<date value="2021.0328767123287" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-B02">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-B05">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-C12">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-F04">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G02">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-G04">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-F10">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-D07">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-H10">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G11">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-E08">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-B12">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G05">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-E11">
+			<date value="2021.0328767123287" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-G02">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-H07">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-H10">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-A11">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-B11">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-G10">
+			<date value="2021.035616438356" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000025-F03">
+			<date value="2021.0246575342467" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-F12">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-H09">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000013-G10">
+			<date value="2021.027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-0000014-H02">
+			<date value="2021.0301369863014" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100266">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100316">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100330">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100349">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100353">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100364">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100377">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100448">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-119">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100226">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-133">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100070">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100400">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100164">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100140">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-135">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-211">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-055">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-083">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-181">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100428">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-042">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-115">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-124">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-145">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-194">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-315">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100002">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-024">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-100">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-147">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-191">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-199">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-171">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A034">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A015">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100199">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100227">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-049">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-032">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-151">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-157">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-158">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-161">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-292">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-P012">
+			<date value="2020.964480874317" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-033">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-085">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-088">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-044">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-134">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-136">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100137">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100389">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-167">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100255">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100234">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-189">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-043">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-075">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-187">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-184">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-056">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-183">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100143">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100201">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-153">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-307">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-289">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-050">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-021">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-082">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-080">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-077">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-127">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-131">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-166">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-156">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-222">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-296">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-303">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100051">
+			<date value="2021.0082191780823" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100152">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100172">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100175">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100154">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100151">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100153">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100148">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100423">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100432">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100422">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100478">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-037">
+			<date value="2020.9890710382513" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-105">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-342">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-310">
+			<date value="2021.0054794520547" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100173">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-P017">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-P025">
+			<date value="2020.967213114754" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-P019">
+			<date value="2020.9699453551912" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-071">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-067">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-070">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-064">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-069">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-073">
+			<date value="2020.983606557377" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-062">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-061">
+			<date value="2020.9863387978141" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-078">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-076">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-087">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-022">
+			<date value="2020.9918032786886" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-130">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-128">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-155">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-149">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-165">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-154">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-150">
+			<date value="2020.9972677595629" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-244">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-208">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-232">
+			<date value="2021.0027397260274" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100116">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100155">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100136">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100119">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100197">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100162">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100147">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100150">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100193">
+			<date value="2021.0109589041097" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100288">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100426">
+			<date value="2021.013698630137" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100403">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100413">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100427">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100386">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-A100480">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="STM-126">
+			<date value="2020.9945355191257" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="SEARCH-5902">
+			<date value="2020.9590163934427" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="ALSR-6046">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+		<taxon id="ALSR-6096">
+			<date value="2021.0164383561644" direction="forwards" units="years" />
+		</taxon>
+	</taxa>
+
+	      <taxa id="FL_1">
+		<taxon idref="STM-0000013-G09|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-0000025-C11|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000013-E10|2021-01-11|USA|Michigan|None" />
+		<taxon idref="STM-0000025-B04|2021-01-10|USA|Florida|None" />
+		<taxon idref="STM-0000014-A06|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-0000014-B05|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-0000013-F04|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000013-G11|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-0000014-B11|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-0000025-F03|2021-01-10|USA|Florida|None" />
+		<taxon idref="STM-0000013-F12|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-A100266|2021-01-02|USA|Florida|None" />
+		<taxon idref="STM-A100330|2021-01-05|USA|Florida|None" />
+		<taxon idref="STM-055|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-042|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-115|2020-12-29|USA|Florida|None" />
+		<taxon idref="STM-A100002|2021-01-04|USA|Florida|None" />
+		<taxon idref="STM-024|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-100|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-A015|2021-01-02|USA|Florida|None" />
+		<taxon idref="STM-161|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-085|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-A100428|2021-01-06|USA|Florida|None" />
+		<taxon idref="STM-088|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-A100199|2021-01-03|USA|Florida|None" />
+		<taxon idref="STM-A100227|2021-01-05|USA|Florida|None" />
+		<taxon idref="STM-0000025-F01|2021-01-10|USA|Florida|None" />
+		<taxon idref="STM-0000013-E07|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000013-D07|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000013-F05|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000013-C11|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-194|2020-12-31|USA|Florida|None" />
+		<taxon idref="STM-033|2020-12-27|USA|Florida|None" />
+		<taxon idref="STM-083|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-147|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-056|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-145|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-0000013-B12|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-184|2020-12-31|USA|Florida|None" />
+		<taxon idref="STM-0000013-H11|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-A100353|2021-01-05|USA|Florida|None" />
+		<taxon idref="STM-049|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-032|2020-12-27|USA|Florida|None" />
+		<taxon idref="STM-292|2021-01-02|USA|Florida|None" />
+		<taxon idref="STM-044|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-189|2020-12-31|USA|Florida|None" />
+		<taxon idref="STM-0000013-E08|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-P012|2020-12-19|USA|Florida|None" />
+		<taxon idref="STM-0000013-F08|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000014-H02|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-124|2020-12-29|USA|Florida|None" />
+		<taxon idref="STM-151|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-157|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-158|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-0000013-A11|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-A100364|2021-01-05|USA|Georgia|None" />
+		<taxon idref="STM-135|2020-12-29|USA|Florida|None" />
+		<taxon idref="STM-315|2021-01-02|USA|Florida|None" />
+		<taxon idref="STM-191|2020-12-31|USA|Florida|None" />
+		<taxon idref="STM-199|2020-12-31|USA|Florida|None" />
+		<taxon idref="STM-171|2020-12-31|USA|Florida|None" />
+		<taxon idref="STM-0000013-H01|2021-01-14|USA|Georgia|None" />
+		<taxon idref="STM-0000013-F02|2021-01-14|USA|Georgia|None" />
+		<taxon idref="STM-0000013-G12|2021-01-15|USA|Florida|None" />
+		<taxon idref="STM-0000013-G06|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-0000014-H10|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-0000013-H10|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-A100316|2021-01-05|USA|Florida|None" />
+		<taxon idref="STM-A034|2021-01-02|USA|Florida|None" />
+		<taxon idref="STM-0000013-A07|2021-01-14|USA|North_Carolina|None" />
+		<taxon idref="STM-0000025-E01|2021-01-10|USA|Florida|None" />
+		<taxon idref="STM-0000013-H07|2021-01-14|USA|Florida|None" />
+		<taxon idref="STM-181|2020-12-31|USA|Florida|None" />
+	      </taxa>
+
+	      <taxa id="CA_1">
+		<taxon idref="EPI_ISL_755940|2020-12-20|USA|California|San_Bernardino_County" />
+		<taxon idref="EPI_ISL_755941|2020-12-20|USA|California|San_Bernardino_County" />
+		<taxon idref="STM-0000025-A07|2021-01-12|USA|California|None" />
+		<taxon idref="STM-0000025-E04|2021-01-11|USA|California|None" />
+		<taxon idref="STM-0000025-H05|2021-01-11|USA|California|None" />
+		<taxon idref="STM-0000025-C01|2021-01-11|USA|California|None" />
+	      </taxa>
+
+	      <taxa id="CA_2">
+		<taxon idref="STM-0000014-F03|2021-01-13|USA|California|None" />
+		<taxon idref="STM-0000025-B07|2021-01-12|USA|California|None" />
+		<taxon idref="STM-A100349|2021-01-06|USA|California|None" />
+		<taxon idref="STM-153|2020-12-31|USA|Minnesota|None" />
+		<taxon idref="STM-021|2020-12-28|USA|California|None" />
+		<taxon idref="STM-127|2020-12-30|USA|California|None" />
+		<taxon idref="STM-131|2020-12-30|USA|California|None" />
+		<taxon idref="STM-166|2020-12-31|USA|California|None" />
+		<taxon idref="STM-156|2020-12-31|USA|California|None" />
+		<taxon idref="STM-A100051|2021-01-04|USA|California|None" />
+		<taxon idref="STM-A100172|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100175|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100478|2021-01-07|USA|California|None" />
+		<taxon idref="STM-105|2020-12-29|USA|California|None" />
+		<taxon idref="STM-P025|2020-12-20|USA|California|None" />
+		<taxon idref="STM-P019|2020-12-21|USA|California|None" />
+		<taxon idref="STM-070|2020-12-26|USA|California|None" />
+		<taxon idref="STM-064|2020-12-26|USA|California|None" />
+		<taxon idref="STM-A100136|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100119|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100197|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100288|2021-01-06|USA|California|None" />
+		<taxon idref="STM-0000025-C02|2021-01-11|USA|California|None" />
+		<taxon idref="STM-0000025-G04|2021-01-11|USA|California|None" />
+		<taxon idref="STM-165|2020-12-31|USA|California|None" />
+		<taxon idref="STM-154|2020-12-31|USA|California|None" />
+		<taxon idref="STM-067|2020-12-26|USA|California|None" />
+		<taxon idref="STM-076|2020-12-29|USA|California|None" />
+		<taxon idref="STM-087|2020-12-29|USA|California|None" />
+		<taxon idref="STM-P017|2020-12-20|USA|California|None" />
+		<taxon idref="STM-A100153|2021-01-05|USA|California|None" />
+		<taxon idref="STM-0000025-C04|2021-01-11|USA|California|None" />
+		<taxon idref="STM-208|2021-01-02|USA|California|None" />
+		<taxon idref="STM-0000014-B12|2021-01-13|USA|California|None" />
+		<taxon idref="STM-222|2021-01-02|USA|California|None" />
+		<taxon idref="STM-0000025-H09|2021-01-12|USA|California|None" />
+		<taxon idref="STM-037|2020-12-28|USA|California|None" />
+		<taxon idref="STM-A100152|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100151|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100148|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100173|2021-01-05|USA|California|None" />
+		<taxon idref="STM-071|2020-12-26|USA|California|None" />
+		<taxon idref="STM-069|2020-12-26|USA|California|None" />
+		<taxon idref="STM-073|2020-12-26|USA|California|None" />
+		<taxon idref="STM-A100193|2021-01-05|USA|California|None" />
+		<taxon idref="STM-062|2020-12-27|USA|California|None" />
+		<taxon idref="STM-022|2020-12-29|USA|California|None" />
+		<taxon idref="STM-A100413|2021-01-07|USA|California|None" />
+		<taxon idref="STM-A100427|2021-01-07|USA|California|None" />
+		<taxon idref="STM-A100155|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100422|2021-01-07|USA|California|None" />
+		<taxon idref="STM-126|2020-12-30|USA|California|None" />
+		<taxon idref="STM-232|2021-01-02|USA|California|None" />
+		<taxon idref="STM-080|2020-12-29|USA|California|None" />
+		<taxon idref="STM-130|2020-12-30|USA|California|None" />
+		<taxon idref="EPI_ISL_751801|2020-12-29|USA|California|San_Diego_County" />
+		<taxon idref="STM-342|2021-01-03|USA|California|None" />
+		<taxon idref="STM-310|2021-01-03|USA|California|None" />
+		<taxon idref="STM-244|2021-01-02|USA|California|None" />
+		<taxon idref="STM-A100147|2021-01-05|USA|California|None" />
+		<taxon idref="STM-128|2020-12-30|USA|California|None" />
+		<taxon idref="STM-150|2020-12-31|USA|California|None" />
+		<taxon idref="STM-077|2020-12-29|USA|California|None" />
+		<taxon idref="STM-A100403|2021-01-07|USA|California|None" />
+		<taxon idref="STM-155|2020-12-31|USA|California|None" />
+		<taxon idref="STM-A100432|2021-01-07|USA|California|None" />
+		<taxon idref="STM-050|2020-12-28|USA|California|None" />
+		<taxon idref="STM-A100423|2021-01-07|USA|California|None" />
+		<taxon idref="STM-A100154|2021-01-05|USA|California|None" />
+		<taxon idref="STM-149|2020-12-31|USA|California|None" />
+		<taxon idref="STM-0000025-F02|2021-01-11|USA|California|None" />
+		<taxon idref="STM-061|2020-12-27|USA|California|None" />
+		<taxon idref="STM-A100377|2021-01-06|USA|California|None" />
+		<taxon idref="STM-082|2020-12-29|USA|California|None" />
+		<taxon idref="STM-296|2021-01-03|USA|California|None" />
+		<taxon idref="STM-303|2021-01-03|USA|California|None" />
+		<taxon idref="STM-078|2020-12-29|USA|California|None" />
+		<taxon idref="STM-A100116|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100162|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100150|2021-01-05|USA|California|None" />
+		<taxon idref="STM-A100480|2021-01-07|USA|California|None" />
+		<taxon idref="ALSR-6046|2021-01-07|USA|California|San_Diego" />
+		<taxon idref="ALSR-6096|2021-01-07|USA|California|San_Diego" />
+		<taxon idref="STM-0000013-E01|2021-01-15|USA|California|None" />
+		<taxon idref="STM-0000014-C07|2021-01-13|USA|California|None" />
+		<taxon idref="STM-0000014-E11|2021-01-13|USA|California|None" />
+		<taxon idref="STM-A100386|2021-01-07|USA|California|None" />
+	      </taxa>
+	      <taxa id="mixed_1">
+		<taxon idref="STM-119|2020-12-28|USA|Pennsylvania|None" />
+		<taxon idref="STM-A100389|2021-01-06|USA|Florida|None" />
+		<taxon idref="STM-0000025-A02|2021-01-10|USA|Florida|None" />
+		<taxon idref="STM-0000014-D09|2021-01-12|USA|Michigan|None" />
+		<taxon idref="STM-0000013-A10|2021-01-11|USA|Minnesota|None" />
+		<taxon idref="STM-167|2020-12-30|USA|Florida|None" />
+		<taxon idref="STM-A100255|2021-01-03|USA|Florida|None" />
+		<taxon idref="STM-A100234|2021-01-04|USA|Florida|None" />
+		<taxon idref="STM-A100448|2021-01-06|USA|Massachusetts|None" />
+	      </taxa>
+
+	      <taxa id="mixed_2">
+		<taxon idref="STM-0000013-B02|2021-01-14|USA|North_Carolina|None" />
+		<taxon idref="STM-0000013-C12|2021-01-11|USA|Georgia|None" />
+		<taxon idref="STM-0000013-C02|2021-01-14|USA|Georgia|None" />
+		<taxon idref="STM-0000013-B09|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-0000013-G02|2021-01-14|USA|Georgia|None" />
+		<taxon idref="STM-0000013-G05|2021-01-14|USA|Georgia|None" />
+		<taxon idref="STM-A100070|2021-01-03|USA|Georgia|None" />
+		<taxon idref="STM-A100400|2021-01-06|USA|Georgia|None" />
+		<taxon idref="STM-133|2020-12-29|USA|Georgia|None" />
+		<taxon idref="STM-183|2020-12-31|USA|Indiana|None" />
+		<taxon idref="STM-A100143|2021-01-04|USA|Indiana|None" />
+		<taxon idref="STM-A100201|2021-01-04|USA|Indiana|None" />
+		<taxon idref="STM-0000014-F10|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-0000013-H09|2021-01-11|USA|Georgia|None" />
+		<taxon idref="STM-A100164|2021-01-04|USA|Georgia|None" />
+		<taxon idref="STM-A100140|2021-01-04|USA|Georgia|None" />
+		<taxon idref="STM-A100137|2021-01-04|USA|Florida|None" />
+		<taxon idref="STM-043|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-075|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-187|2020-12-31|USA|Florida|None" />
+	      </taxa>
+
+	      <taxa id="mixed_2_subclade_1">
+		<taxon idref="STM-133|2020-12-29|USA|Georgia|None" />
+		<taxon idref="STM-183|2020-12-31|USA|Indiana|None" />
+		<taxon idref="STM-A100143|2021-01-04|USA|Indiana|None" />
+		<taxon idref="STM-A100201|2021-01-04|USA|Indiana|None" />
+		<taxon idref="STM-0000014-F10|2021-01-12|USA|Florida|None" />
+		<taxon idref="STM-0000013-H09|2021-01-11|USA|Georgia|None" />
+		<taxon idref="STM-A100164|2021-01-04|USA|Georgia|None" />
+		<taxon idref="STM-A100140|2021-01-04|USA|Georgia|None" />
+		<taxon idref="STM-A100137|2021-01-04|USA|Florida|None" />
+		<taxon idref="STM-043|2020-12-26|USA|Florida|None" />
+		<taxon idref="STM-075|2020-12-28|USA|Florida|None" />
+		<taxon idref="STM-187|2020-12-31|USA|Florida|None" />
+	      </taxa>
+	      <taxa id="mixed_2_subclade_2">
+		<taxon idref="STM-0000013-C02|2021-01-14|USA|Georgia|None" />
+		<taxon idref="STM-0000013-B09|2021-01-11|USA|Florida|None" />
+		<taxon idref="STM-0000013-G02|2021-01-14|USA|Georgia|None" />
+	      </taxa>
+
+
+
+	
+	
+	<alignment id="alignment" dataType="nucleotide">
+		<sequence>
+			<taxon idref="NC_045512.2" />
+			<!-- Genome sequence for accession NC_045512.2 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_438093" />
+			<!-- Genome sequence for accession EPI_ISL_438093 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_438614" />
+			<!-- Genome sequence for accession EPI_ISL_438614 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_439664" />
+			<!-- Genome sequence for accession EPI_ISL_439664 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_442589" />
+			<!-- Genome sequence for accession EPI_ISL_442589 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_454280" />
+			<!-- Genome sequence for accession EPI_ISL_454280 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_466262" />
+			<!-- Genome sequence for accession EPI_ISL_466262 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_483654" />
+			<!-- Genome sequence for accession EPI_ISL_483654 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_515095" />
+			<!-- Genome sequence for accession EPI_ISL_515095 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_536258" />
+			<!-- Genome sequence for accession EPI_ISL_536258 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_539101" />
+			<!-- Genome sequence for accession EPI_ISL_539101 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_539105" />
+			<!-- Genome sequence for accession EPI_ISL_539105 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_545306" />
+			<!-- Genome sequence for accession EPI_ISL_545306 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_547966" />
+			<!-- Genome sequence for accession EPI_ISL_547966 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_549015" />
+			<!-- Genome sequence for accession EPI_ISL_549015 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_549022" />
+			<!-- Genome sequence for accession EPI_ISL_549022 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_552370" />
+			<!-- Genome sequence for accession EPI_ISL_552370 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_554755" />
+			<!-- Genome sequence for accession EPI_ISL_554755 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_579569" />
+			<!-- Genome sequence for accession EPI_ISL_579569 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_581874" />
+			<!-- Genome sequence for accession EPI_ISL_581874 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_596271" />
+			<!-- Genome sequence for accession EPI_ISL_596271 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_602490" />
+			<!-- Genome sequence for accession EPI_ISL_602490 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_648895" />
+			<!-- Genome sequence for accession EPI_ISL_648895 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_657838" />
+			<!-- Genome sequence for accession EPI_ISL_657838 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_658409" />
+			<!-- Genome sequence for accession EPI_ISL_658409 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_661953" />
+			<!-- Genome sequence for accession EPI_ISL_661953 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_664627" />
+			<!-- Genome sequence for accession EPI_ISL_664627 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_668385" />
+			<!-- Genome sequence for accession EPI_ISL_668385 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_668213" />
+			<!-- Genome sequence for accession EPI_ISL_668213 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_671686" />
+			<!-- Genome sequence for accession EPI_ISL_671686 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_675883" />
+			<!-- Genome sequence for accession EPI_ISL_675883 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_679444" />
+			<!-- Genome sequence for accession EPI_ISL_679444 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_703469" />
+			<!-- Genome sequence for accession EPI_ISL_703469 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_709702" />
+			<!-- Genome sequence for accession EPI_ISL_709702 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_709759" />
+			<!-- Genome sequence for accession EPI_ISL_709759 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_718487" />
+			<!-- Genome sequence for accession EPI_ISL_718487 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_719035" />
+			<!-- Genome sequence for accession EPI_ISL_719035 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_719004" />
+			<!-- Genome sequence for accession EPI_ISL_719004 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_718854" />
+			<!-- Genome sequence for accession EPI_ISL_718854 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_718840" />
+			<!-- Genome sequence for accession EPI_ISL_718840 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_720588" />
+			<!-- Genome sequence for accession EPI_ISL_720588 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_724147" />
+			<!-- Genome sequence for accession EPI_ISL_724147 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_725043" />
+			<!-- Genome sequence for accession EPI_ISL_725043 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_725310" />
+			<!-- Genome sequence for accession EPI_ISL_725310 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_719535" />
+			<!-- Genome sequence for accession EPI_ISL_719535 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_730905" />
+			<!-- Genome sequence for accession EPI_ISL_730905 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_731877" />
+			<!-- Genome sequence for accession EPI_ISL_731877 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_731688" />
+			<!-- Genome sequence for accession EPI_ISL_731688 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_731306" />
+			<!-- Genome sequence for accession EPI_ISL_731306 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_718753" />
+			<!-- Genome sequence for accession EPI_ISL_718753 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_718810" />
+			<!-- Genome sequence for accession EPI_ISL_718810 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_719400" />
+			<!-- Genome sequence for accession EPI_ISL_719400 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_733802" />
+			<!-- Genome sequence for accession EPI_ISL_733802 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_733866" />
+			<!-- Genome sequence for accession EPI_ISL_733866 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_733696" />
+			<!-- Genome sequence for accession EPI_ISL_733696 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_736668" />
+			<!-- Genome sequence for accession EPI_ISL_736668 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_736690" />
+			<!-- Genome sequence for accession EPI_ISL_736690 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_736692" />
+			<!-- Genome sequence for accession EPI_ISL_736692 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_735703" />
+			<!-- Genome sequence for accession EPI_ISL_735703 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_735527" />
+			<!-- Genome sequence for accession EPI_ISL_735527 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_735578" />
+			<!-- Genome sequence for accession EPI_ISL_735578 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_736340" />
+			<!-- Genome sequence for accession EPI_ISL_736340 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_736372" />
+			<!-- Genome sequence for accession EPI_ISL_736372 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_737203" />
+			<!-- Genome sequence for accession EPI_ISL_737203 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_745197" />
+			<!-- Genome sequence for accession EPI_ISL_745197 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_756954" />
+			<!-- Genome sequence for accession EPI_ISL_756954 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_756584" />
+			<!-- Genome sequence for accession EPI_ISL_756584 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_759712" />
+			<!-- Genome sequence for accession EPI_ISL_759712 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_760398" />
+			<!-- Genome sequence for accession EPI_ISL_760398 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_760292" />
+			<!-- Genome sequence for accession EPI_ISL_760292 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_760518" />
+			<!-- Genome sequence for accession EPI_ISL_760518 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_761397" />
+			<!-- Genome sequence for accession EPI_ISL_761397 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_761514" />
+			<!-- Genome sequence for accession EPI_ISL_761514 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_763355" />
+			<!-- Genome sequence for accession EPI_ISL_763355 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_763747" />
+			<!-- Genome sequence for accession EPI_ISL_763747 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_763850" />
+			<!-- Genome sequence for accession EPI_ISL_763850 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_764080" />
+			<!-- Genome sequence for accession EPI_ISL_764080 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_764083" />
+			<!-- Genome sequence for accession EPI_ISL_764083 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_764228" />
+			<!-- Genome sequence for accession EPI_ISL_764228 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762386" />
+			<!-- Genome sequence for accession EPI_ISL_762386 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762393" />
+			<!-- Genome sequence for accession EPI_ISL_762393 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762568" />
+			<!-- Genome sequence for accession EPI_ISL_762568 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762344" />
+			<!-- Genome sequence for accession EPI_ISL_762344 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762548" />
+			<!-- Genome sequence for accession EPI_ISL_762548 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762000" />
+			<!-- Genome sequence for accession EPI_ISL_762000 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_761952" />
+			<!-- Genome sequence for accession EPI_ISL_761952 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_761993" />
+			<!-- Genome sequence for accession EPI_ISL_761993 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_761757" />
+			<!-- Genome sequence for accession EPI_ISL_761757 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762935" />
+			<!-- Genome sequence for accession EPI_ISL_762935 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762791" />
+			<!-- Genome sequence for accession EPI_ISL_762791 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_762862" />
+			<!-- Genome sequence for accession EPI_ISL_762862 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_766062" />
+			<!-- Genome sequence for accession EPI_ISL_766062 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_768820" />
+			<!-- Genome sequence for accession EPI_ISL_768820 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_768960" />
+			<!-- Genome sequence for accession EPI_ISL_768960 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_768846" />
+			<!-- Genome sequence for accession EPI_ISL_768846 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_769049" />
+			<!-- Genome sequence for accession EPI_ISL_769049 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_769019" />
+			<!-- Genome sequence for accession EPI_ISL_769019 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_769341" />
+			<!-- Genome sequence for accession EPI_ISL_769341 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_778823" />
+			<!-- Genome sequence for accession EPI_ISL_778823 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777816" />
+			<!-- Genome sequence for accession EPI_ISL_777816 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777813" />
+			<!-- Genome sequence for accession EPI_ISL_777813 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777928" />
+			<!-- Genome sequence for accession EPI_ISL_777928 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777804" />
+			<!-- Genome sequence for accession EPI_ISL_777804 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_778204" />
+			<!-- Genome sequence for accession EPI_ISL_778204 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_778339" />
+			<!-- Genome sequence for accession EPI_ISL_778339 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_778049" />
+			<!-- Genome sequence for accession EPI_ISL_778049 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_778080" />
+			<!-- Genome sequence for accession EPI_ISL_778080 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777226" />
+			<!-- Genome sequence for accession EPI_ISL_777226 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777140" />
+			<!-- Genome sequence for accession EPI_ISL_777140 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777146" />
+			<!-- Genome sequence for accession EPI_ISL_777146 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777267" />
+			<!-- Genome sequence for accession EPI_ISL_777267 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_777045" />
+			<!-- Genome sequence for accession EPI_ISL_777045 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_782090" />
+			<!-- Genome sequence for accession EPI_ISL_782090 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_782060" />
+			<!-- Genome sequence for accession EPI_ISL_782060 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_782065" />
+			<!-- Genome sequence for accession EPI_ISL_782065 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781842" />
+			<!-- Genome sequence for accession EPI_ISL_781842 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781973" />
+			<!-- Genome sequence for accession EPI_ISL_781973 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781816" />
+			<!-- Genome sequence for accession EPI_ISL_781816 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781685" />
+			<!-- Genome sequence for accession EPI_ISL_781685 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781871" />
+			<!-- Genome sequence for accession EPI_ISL_781871 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781449" />
+			<!-- Genome sequence for accession EPI_ISL_781449 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781630" />
+			<!-- Genome sequence for accession EPI_ISL_781630 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781372" />
+			<!-- Genome sequence for accession EPI_ISL_781372 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781246" />
+			<!-- Genome sequence for accession EPI_ISL_781246 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_781243" />
+			<!-- Genome sequence for accession EPI_ISL_781243 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_782401" />
+			<!-- Genome sequence for accession EPI_ISL_782401 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_783171" />
+			<!-- Genome sequence for accession EPI_ISL_783171 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_782904" />
+			<!-- Genome sequence for accession EPI_ISL_782904 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_782865" />
+			<!-- Genome sequence for accession EPI_ISL_782865 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_783374" />
+			<!-- Genome sequence for accession EPI_ISL_783374 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_796734" />
+			<!-- Genome sequence for accession EPI_ISL_796734 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_801518" />
+			<!-- Genome sequence for accession EPI_ISL_801518 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_802506" />
+			<!-- Genome sequence for accession EPI_ISL_802506 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_802517" />
+			<!-- Genome sequence for accession EPI_ISL_802517 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800384" />
+			<!-- Genome sequence for accession EPI_ISL_800384 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800360" />
+			<!-- Genome sequence for accession EPI_ISL_800360 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800488" />
+			<!-- Genome sequence for accession EPI_ISL_800488 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800554" />
+			<!-- Genome sequence for accession EPI_ISL_800554 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800413" />
+			<!-- Genome sequence for accession EPI_ISL_800413 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800535" />
+			<!-- Genome sequence for accession EPI_ISL_800535 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800405" />
+			<!-- Genome sequence for accession EPI_ISL_800405 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798180" />
+			<!-- Genome sequence for accession EPI_ISL_798180 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798184" />
+			<!-- Genome sequence for accession EPI_ISL_798184 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798264" />
+			<!-- Genome sequence for accession EPI_ISL_798264 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798072" />
+			<!-- Genome sequence for accession EPI_ISL_798072 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797893" />
+			<!-- Genome sequence for accession EPI_ISL_797893 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797987" />
+			<!-- Genome sequence for accession EPI_ISL_797987 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797104" />
+			<!-- Genome sequence for accession EPI_ISL_797104 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797215" />
+			<!-- Genome sequence for accession EPI_ISL_797215 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797162" />
+			<!-- Genome sequence for accession EPI_ISL_797162 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797049" />
+			<!-- Genome sequence for accession EPI_ISL_797049 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_796895" />
+			<!-- Genome sequence for accession EPI_ISL_796895 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_796963" />
+			<!-- Genome sequence for accession EPI_ISL_796963 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_796844" />
+			<!-- Genome sequence for accession EPI_ISL_796844 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800098" />
+			<!-- Genome sequence for accession EPI_ISL_800098 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_800038" />
+			<!-- Genome sequence for accession EPI_ISL_800038 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_799512" />
+			<!-- Genome sequence for accession EPI_ISL_799512 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_799396" />
+			<!-- Genome sequence for accession EPI_ISL_799396 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_799559" />
+			<!-- Genome sequence for accession EPI_ISL_799559 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_799451" />
+			<!-- Genome sequence for accession EPI_ISL_799451 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_799691" />
+			<!-- Genome sequence for accession EPI_ISL_799691 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_799291" />
+			<!-- Genome sequence for accession EPI_ISL_799291 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797656" />
+			<!-- Genome sequence for accession EPI_ISL_797656 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797284" />
+			<!-- Genome sequence for accession EPI_ISL_797284 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_797293" />
+			<!-- Genome sequence for accession EPI_ISL_797293 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798434" />
+			<!-- Genome sequence for accession EPI_ISL_798434 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798445" />
+			<!-- Genome sequence for accession EPI_ISL_798445 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798535" />
+			<!-- Genome sequence for accession EPI_ISL_798535 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798629" />
+			<!-- Genome sequence for accession EPI_ISL_798629 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798766" />
+			<!-- Genome sequence for accession EPI_ISL_798766 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798471" />
+			<!-- Genome sequence for accession EPI_ISL_798471 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798487" />
+			<!-- Genome sequence for accession EPI_ISL_798487 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798715" />
+			<!-- Genome sequence for accession EPI_ISL_798715 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798873" />
+			<!-- Genome sequence for accession EPI_ISL_798873 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798874" />
+			<!-- Genome sequence for accession EPI_ISL_798874 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_798985" />
+			<!-- Genome sequence for accession EPI_ISL_798985 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_804335" />
+			<!-- Genome sequence for accession EPI_ISL_804335 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_811994" />
+			<!-- Genome sequence for accession EPI_ISL_811994 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_811893" />
+			<!-- Genome sequence for accession EPI_ISL_811893 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_812046" />
+			<!-- Genome sequence for accession EPI_ISL_812046 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_811921" />
+			<!-- Genome sequence for accession EPI_ISL_811921 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_811981" />
+			<!-- Genome sequence for accession EPI_ISL_811981 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_811462" />
+			<!-- Genome sequence for accession EPI_ISL_811462 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_811391" />
+			<!-- Genome sequence for accession EPI_ISL_811391 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813110" />
+			<!-- Genome sequence for accession EPI_ISL_813110 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813264" />
+			<!-- Genome sequence for accession EPI_ISL_813264 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813601" />
+			<!-- Genome sequence for accession EPI_ISL_813601 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813899" />
+			<!-- Genome sequence for accession EPI_ISL_813899 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813902" />
+			<!-- Genome sequence for accession EPI_ISL_813902 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813924" />
+			<!-- Genome sequence for accession EPI_ISL_813924 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813956" />
+			<!-- Genome sequence for accession EPI_ISL_813956 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_813977" />
+			<!-- Genome sequence for accession EPI_ISL_813977 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_814294" />
+			<!-- Genome sequence for accession EPI_ISL_814294 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_814419" />
+			<!-- Genome sequence for accession EPI_ISL_814419 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_814538" />
+			<!-- Genome sequence for accession EPI_ISL_814538 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_816223" />
+			<!-- Genome sequence for accession EPI_ISL_816223 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_816275" />
+			<!-- Genome sequence for accession EPI_ISL_816275 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_816371" />
+			<!-- Genome sequence for accession EPI_ISL_816371 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_816494" />
+			<!-- Genome sequence for accession EPI_ISL_816494 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_816903" />
+			<!-- Genome sequence for accession EPI_ISL_816903 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_816934" />
+			<!-- Genome sequence for accession EPI_ISL_816934 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_817026" />
+			<!-- Genome sequence for accession EPI_ISL_817026 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_817089" />
+			<!-- Genome sequence for accession EPI_ISL_817089 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_819713" />
+			<!-- Genome sequence for accession EPI_ISL_819713 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_819760" />
+			<!-- Genome sequence for accession EPI_ISL_819760 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_819924" />
+			<!-- Genome sequence for accession EPI_ISL_819924 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_820117" />
+			<!-- Genome sequence for accession EPI_ISL_820117 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_820141" />
+			<!-- Genome sequence for accession EPI_ISL_820141 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_822854" />
+			<!-- Genome sequence for accession EPI_ISL_822854 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_823127" />
+			<!-- Genome sequence for accession EPI_ISL_823127 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_823132" />
+			<!-- Genome sequence for accession EPI_ISL_823132 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_820566" />
+			<!-- Genome sequence for accession EPI_ISL_820566 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_822308" />
+			<!-- Genome sequence for accession EPI_ISL_822308 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821908" />
+			<!-- Genome sequence for accession EPI_ISL_821908 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821680" />
+			<!-- Genome sequence for accession EPI_ISL_821680 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821343" />
+			<!-- Genome sequence for accession EPI_ISL_821343 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821746" />
+			<!-- Genome sequence for accession EPI_ISL_821746 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821770" />
+			<!-- Genome sequence for accession EPI_ISL_821770 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821775" />
+			<!-- Genome sequence for accession EPI_ISL_821775 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_821316" />
+			<!-- Genome sequence for accession EPI_ISL_821316 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_820945" />
+			<!-- Genome sequence for accession EPI_ISL_820945 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_826524" />
+			<!-- Genome sequence for accession EPI_ISL_826524 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_837122" />
+			<!-- Genome sequence for accession EPI_ISL_837122 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_837134" />
+			<!-- Genome sequence for accession EPI_ISL_837134 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_836622" />
+			<!-- Genome sequence for accession EPI_ISL_836622 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_836887" />
+			<!-- Genome sequence for accession EPI_ISL_836887 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_836666" />
+			<!-- Genome sequence for accession EPI_ISL_836666 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_836401" />
+			<!-- Genome sequence for accession EPI_ISL_836401 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_836272" />
+			<!-- Genome sequence for accession EPI_ISL_836272 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838812" />
+			<!-- Genome sequence for accession EPI_ISL_838812 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838701" />
+			<!-- Genome sequence for accession EPI_ISL_838701 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838825" />
+			<!-- Genome sequence for accession EPI_ISL_838825 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838771" />
+			<!-- Genome sequence for accession EPI_ISL_838771 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838776" />
+			<!-- Genome sequence for accession EPI_ISL_838776 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_843090" />
+			<!-- Genome sequence for accession EPI_ISL_843090 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842693" />
+			<!-- Genome sequence for accession EPI_ISL_842693 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_834801" />
+			<!-- Genome sequence for accession EPI_ISL_834801 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_834938" />
+			<!-- Genome sequence for accession EPI_ISL_834938 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_834851" />
+			<!-- Genome sequence for accession EPI_ISL_834851 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_847187" />
+			<!-- Genome sequence for accession EPI_ISL_847187 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_846462" />
+			<!-- Genome sequence for accession EPI_ISL_846462 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_834195" />
+			<!-- Genome sequence for accession EPI_ISL_834195 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_834293" />
+			<!-- Genome sequence for accession EPI_ISL_834293 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_835313" />
+			<!-- Genome sequence for accession EPI_ISL_835313 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_835459" />
+			<!-- Genome sequence for accession EPI_ISL_835459 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_847924" />
+			<!-- Genome sequence for accession EPI_ISL_847924 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_835970" />
+			<!-- Genome sequence for accession EPI_ISL_835970 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_835877" />
+			<!-- Genome sequence for accession EPI_ISL_835877 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_846205" />
+			<!-- Genome sequence for accession EPI_ISL_846205 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_846056" />
+			<!-- Genome sequence for accession EPI_ISL_846056 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838691" />
+			<!-- Genome sequence for accession EPI_ISL_838691 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838576" />
+			<!-- Genome sequence for accession EPI_ISL_838576 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838591" />
+			<!-- Genome sequence for accession EPI_ISL_838591 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_838351" />
+			<!-- Genome sequence for accession EPI_ISL_838351 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842506" />
+			<!-- Genome sequence for accession EPI_ISL_842506 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842501" />
+			<!-- Genome sequence for accession EPI_ISL_842501 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842518" />
+			<!-- Genome sequence for accession EPI_ISL_842518 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842514" />
+			<!-- Genome sequence for accession EPI_ISL_842514 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842436" />
+			<!-- Genome sequence for accession EPI_ISL_842436 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842574" />
+			<!-- Genome sequence for accession EPI_ISL_842574 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842599" />
+			<!-- Genome sequence for accession EPI_ISL_842599 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842594" />
+			<!-- Genome sequence for accession EPI_ISL_842594 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842467" />
+			<!-- Genome sequence for accession EPI_ISL_842467 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_839092" />
+			<!-- Genome sequence for accession EPI_ISL_839092 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_839107" />
+			<!-- Genome sequence for accession EPI_ISL_839107 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_839174" />
+			<!-- Genome sequence for accession EPI_ISL_839174 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_839609" />
+			<!-- Genome sequence for accession EPI_ISL_839609 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_839522" />
+			<!-- Genome sequence for accession EPI_ISL_839522 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_842308" />
+			<!-- Genome sequence for accession EPI_ISL_842308 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_841790" />
+			<!-- Genome sequence for accession EPI_ISL_841790 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851197" />
+			<!-- Genome sequence for accession EPI_ISL_851197 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851098" />
+			<!-- Genome sequence for accession EPI_ISL_851098 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851525" />
+			<!-- Genome sequence for accession EPI_ISL_851525 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851247" />
+			<!-- Genome sequence for accession EPI_ISL_851247 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851296" />
+			<!-- Genome sequence for accession EPI_ISL_851296 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_852508" />
+			<!-- Genome sequence for accession EPI_ISL_852508 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_852441" />
+			<!-- Genome sequence for accession EPI_ISL_852441 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_852353" />
+			<!-- Genome sequence for accession EPI_ISL_852353 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_852471" />
+			<!-- Genome sequence for accession EPI_ISL_852471 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_852360" />
+			<!-- Genome sequence for accession EPI_ISL_852360 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851902" />
+			<!-- Genome sequence for accession EPI_ISL_851902 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851928" />
+			<!-- Genome sequence for accession EPI_ISL_851928 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851971" />
+			<!-- Genome sequence for accession EPI_ISL_851971 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_851588" />
+			<!-- Genome sequence for accession EPI_ISL_851588 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_855595" />
+			<!-- Genome sequence for accession EPI_ISL_855595 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_860053" />
+			<!-- Genome sequence for accession EPI_ISL_860053 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_860089" />
+			<!-- Genome sequence for accession EPI_ISL_860089 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_857580" />
+			<!-- Genome sequence for accession EPI_ISL_857580 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_857834" />
+			<!-- Genome sequence for accession EPI_ISL_857834 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_858853" />
+			<!-- Genome sequence for accession EPI_ISL_858853 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_858669" />
+			<!-- Genome sequence for accession EPI_ISL_858669 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_858582" />
+			<!-- Genome sequence for accession EPI_ISL_858582 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_751801" />
+			<!-- Genome sequence for accession EPI_ISL_751801 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_755940" />
+			<!-- Genome sequence for accession EPI_ISL_755940 -->
+			</sequence>
+		<sequence>
+			<taxon idref="EPI_ISL_755941" />
+			<!-- Genome sequence for accession EPI_ISL_755941 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-A02" />
+			<!-- Genome sequence for accession STM-0000025-A02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G09" />
+			<!-- Genome sequence for accession STM-0000013-G09 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-H01" />
+			<!-- Genome sequence for accession STM-0000013-H01 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G12" />
+			<!-- Genome sequence for accession STM-0000013-G12 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-C11" />
+			<!-- Genome sequence for accession STM-0000025-C11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-E10" />
+			<!-- Genome sequence for accession STM-0000013-E10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-F01" />
+			<!-- Genome sequence for accession STM-0000025-F01 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-C03" />
+			<!-- Genome sequence for accession STM-0000025-C03 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-F03" />
+			<!-- Genome sequence for accession STM-0000014-F03 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-D06" />
+			<!-- Genome sequence for accession STM-0000013-D06 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-A10" />
+			<!-- Genome sequence for accession STM-0000013-A10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-F02" />
+			<!-- Genome sequence for accession STM-0000025-F02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-C04" />
+			<!-- Genome sequence for accession STM-0000025-C04 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-A07" />
+			<!-- Genome sequence for accession STM-0000025-A07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-A07" />
+			<!-- Genome sequence for accession STM-0000013-A07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-A03" />
+			<!-- Genome sequence for accession STM-0000014-A03 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-F05" />
+			<!-- Genome sequence for accession STM-0000013-F05 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-E07" />
+			<!-- Genome sequence for accession STM-0000013-E07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-B04" />
+			<!-- Genome sequence for accession STM-0000025-B04 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-B07" />
+			<!-- Genome sequence for accession STM-0000025-B07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-C02" />
+			<!-- Genome sequence for accession STM-0000025-C02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-H09" />
+			<!-- Genome sequence for accession STM-0000025-H09 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-F08" />
+			<!-- Genome sequence for accession STM-0000013-F08 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-C02" />
+			<!-- Genome sequence for accession STM-0000013-C02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-A06" />
+			<!-- Genome sequence for accession STM-0000014-A06 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-B09" />
+			<!-- Genome sequence for accession STM-0000013-B09 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-E01" />
+			<!-- Genome sequence for accession STM-0000025-E01 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-F02" />
+			<!-- Genome sequence for accession STM-0000013-F02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-H11" />
+			<!-- Genome sequence for accession STM-0000013-H11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-B12" />
+			<!-- Genome sequence for accession STM-0000014-B12 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-H08" />
+			<!-- Genome sequence for accession STM-0000013-H08 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-E04" />
+			<!-- Genome sequence for accession STM-0000025-E04 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-C11" />
+			<!-- Genome sequence for accession STM-0000013-C11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-H05" />
+			<!-- Genome sequence for accession STM-0000025-H05 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-C01" />
+			<!-- Genome sequence for accession STM-0000025-C01 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G06" />
+			<!-- Genome sequence for accession STM-0000013-G06 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-B05" />
+			<!-- Genome sequence for accession STM-0000014-B05 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-D09" />
+			<!-- Genome sequence for accession STM-0000014-D09 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-C09" />
+			<!-- Genome sequence for accession STM-0000014-C09 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-E01" />
+			<!-- Genome sequence for accession STM-0000013-E01 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-C07" />
+			<!-- Genome sequence for accession STM-0000014-C07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-B02" />
+			<!-- Genome sequence for accession STM-0000013-B02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-B05" />
+			<!-- Genome sequence for accession STM-0000013-B05 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-C12" />
+			<!-- Genome sequence for accession STM-0000013-C12 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-F04" />
+			<!-- Genome sequence for accession STM-0000013-F04 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G02" />
+			<!-- Genome sequence for accession STM-0000013-G02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-G04" />
+			<!-- Genome sequence for accession STM-0000025-G04 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-F10" />
+			<!-- Genome sequence for accession STM-0000014-F10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-D07" />
+			<!-- Genome sequence for accession STM-0000013-D07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-H10" />
+			<!-- Genome sequence for accession STM-0000014-H10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G11" />
+			<!-- Genome sequence for accession STM-0000013-G11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-E08" />
+			<!-- Genome sequence for accession STM-0000013-E08 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-B12" />
+			<!-- Genome sequence for accession STM-0000013-B12 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G05" />
+			<!-- Genome sequence for accession STM-0000013-G05 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-E11" />
+			<!-- Genome sequence for accession STM-0000014-E11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-G02" />
+			<!-- Genome sequence for accession STM-0000014-G02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-H07" />
+			<!-- Genome sequence for accession STM-0000013-H07 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-H10" />
+			<!-- Genome sequence for accession STM-0000013-H10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-A11" />
+			<!-- Genome sequence for accession STM-0000013-A11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-B11" />
+			<!-- Genome sequence for accession STM-0000014-B11 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-G10" />
+			<!-- Genome sequence for accession STM-0000025-G10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000025-F03" />
+			<!-- Genome sequence for accession STM-0000025-F03 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-F12" />
+			<!-- Genome sequence for accession STM-0000013-F12 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-H09" />
+			<!-- Genome sequence for accession STM-0000013-H09 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000013-G10" />
+			<!-- Genome sequence for accession STM-0000013-G10 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-0000014-H02" />
+			<!-- Genome sequence for accession STM-0000014-H02 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100266" />
+			<!-- Genome sequence for accession STM-A100266 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100316" />
+			<!-- Genome sequence for accession STM-A100316 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100330" />
+			<!-- Genome sequence for accession STM-A100330 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100349" />
+			<!-- Genome sequence for accession STM-A100349 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100353" />
+			<!-- Genome sequence for accession STM-A100353 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100364" />
+			<!-- Genome sequence for accession STM-A100364 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100377" />
+			<!-- Genome sequence for accession STM-A100377 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100448" />
+			<!-- Genome sequence for accession STM-A100448 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-119" />
+			<!-- Genome sequence for accession STM-119 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100226" />
+			<!-- Genome sequence for accession STM-A100226 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-133" />
+			<!-- Genome sequence for accession STM-133 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100070" />
+			<!-- Genome sequence for accession STM-A100070 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100400" />
+			<!-- Genome sequence for accession STM-A100400 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100164" />
+			<!-- Genome sequence for accession STM-A100164 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100140" />
+			<!-- Genome sequence for accession STM-A100140 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-135" />
+			<!-- Genome sequence for accession STM-135 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-211" />
+			<!-- Genome sequence for accession STM-211 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-055" />
+			<!-- Genome sequence for accession STM-055 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-083" />
+			<!-- Genome sequence for accession STM-083 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-181" />
+			<!-- Genome sequence for accession STM-181 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100428" />
+			<!-- Genome sequence for accession STM-A100428 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-042" />
+			<!-- Genome sequence for accession STM-042 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-115" />
+			<!-- Genome sequence for accession STM-115 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-124" />
+			<!-- Genome sequence for accession STM-124 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-145" />
+			<!-- Genome sequence for accession STM-145 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-194" />
+			<!-- Genome sequence for accession STM-194 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-315" />
+			<!-- Genome sequence for accession STM-315 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100002" />
+			<!-- Genome sequence for accession STM-A100002 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-024" />
+			<!-- Genome sequence for accession STM-024 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-100" />
+			<!-- Genome sequence for accession STM-100 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-147" />
+			<!-- Genome sequence for accession STM-147 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-191" />
+			<!-- Genome sequence for accession STM-191 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-199" />
+			<!-- Genome sequence for accession STM-199 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-171" />
+			<!-- Genome sequence for accession STM-171 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A034" />
+			<!-- Genome sequence for accession STM-A034 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A015" />
+			<!-- Genome sequence for accession STM-A015 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100199" />
+			<!-- Genome sequence for accession STM-A100199 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100227" />
+			<!-- Genome sequence for accession STM-A100227 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-049" />
+			<!-- Genome sequence for accession STM-049 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-032" />
+			<!-- Genome sequence for accession STM-032 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-151" />
+			<!-- Genome sequence for accession STM-151 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-157" />
+			<!-- Genome sequence for accession STM-157 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-158" />
+			<!-- Genome sequence for accession STM-158 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-161" />
+			<!-- Genome sequence for accession STM-161 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-292" />
+			<!-- Genome sequence for accession STM-292 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-P012" />
+			<!-- Genome sequence for accession STM-P012 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-033" />
+			<!-- Genome sequence for accession STM-033 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-085" />
+			<!-- Genome sequence for accession STM-085 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-088" />
+			<!-- Genome sequence for accession STM-088 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-044" />
+			<!-- Genome sequence for accession STM-044 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-134" />
+			<!-- Genome sequence for accession STM-134 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-136" />
+			<!-- Genome sequence for accession STM-136 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100137" />
+			<!-- Genome sequence for accession STM-A100137 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100389" />
+			<!-- Genome sequence for accession STM-A100389 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-167" />
+			<!-- Genome sequence for accession STM-167 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100255" />
+			<!-- Genome sequence for accession STM-A100255 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100234" />
+			<!-- Genome sequence for accession STM-A100234 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-189" />
+			<!-- Genome sequence for accession STM-189 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-043" />
+			<!-- Genome sequence for accession STM-043 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-075" />
+			<!-- Genome sequence for accession STM-075 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-187" />
+			<!-- Genome sequence for accession STM-187 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-184" />
+			<!-- Genome sequence for accession STM-184 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-056" />
+			<!-- Genome sequence for accession STM-056 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-183" />
+			<!-- Genome sequence for accession STM-183 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100143" />
+			<!-- Genome sequence for accession STM-A100143 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100201" />
+			<!-- Genome sequence for accession STM-A100201 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-153" />
+			<!-- Genome sequence for accession STM-153 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-307" />
+			<!-- Genome sequence for accession STM-307 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-289" />
+			<!-- Genome sequence for accession STM-289 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-050" />
+			<!-- Genome sequence for accession STM-050 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-021" />
+			<!-- Genome sequence for accession STM-021 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-082" />
+			<!-- Genome sequence for accession STM-082 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-080" />
+			<!-- Genome sequence for accession STM-080 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-077" />
+			<!-- Genome sequence for accession STM-077 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-127" />
+			<!-- Genome sequence for accession STM-127 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-131" />
+			<!-- Genome sequence for accession STM-131 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-166" />
+			<!-- Genome sequence for accession STM-166 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-156" />
+			<!-- Genome sequence for accession STM-156 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-222" />
+			<!-- Genome sequence for accession STM-222 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-296" />
+			<!-- Genome sequence for accession STM-296 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-303" />
+			<!-- Genome sequence for accession STM-303 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100051" />
+			<!-- Genome sequence for accession STM-A100051 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100152" />
+			<!-- Genome sequence for accession STM-A100152 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100172" />
+			<!-- Genome sequence for accession STM-A100172 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100175" />
+			<!-- Genome sequence for accession STM-A100175 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100154" />
+			<!-- Genome sequence for accession STM-A100154 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100151" />
+			<!-- Genome sequence for accession STM-A100151 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100153" />
+			<!-- Genome sequence for accession STM-A100153 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100148" />
+			<!-- Genome sequence for accession STM-A100148 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100423" />
+			<!-- Genome sequence for accession STM-A100423 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100432" />
+			<!-- Genome sequence for accession STM-A100432 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100422" />
+			<!-- Genome sequence for accession STM-A100422 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100478" />
+			<!-- Genome sequence for accession STM-A100478 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-037" />
+			<!-- Genome sequence for accession STM-037 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-105" />
+			<!-- Genome sequence for accession STM-105 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-342" />
+			<!-- Genome sequence for accession STM-342 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-310" />
+			<!-- Genome sequence for accession STM-310 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100173" />
+			<!-- Genome sequence for accession STM-A100173 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-P017" />
+			<!-- Genome sequence for accession STM-P017 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-P025" />
+			<!-- Genome sequence for accession STM-P025 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-P019" />
+			<!-- Genome sequence for accession STM-P019 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-071" />
+			<!-- Genome sequence for accession STM-071 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-067" />
+			<!-- Genome sequence for accession STM-067 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-070" />
+			<!-- Genome sequence for accession STM-070 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-064" />
+			<!-- Genome sequence for accession STM-064 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-069" />
+			<!-- Genome sequence for accession STM-069 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-073" />
+			<!-- Genome sequence for accession STM-073 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-062" />
+			<!-- Genome sequence for accession STM-062 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-061" />
+			<!-- Genome sequence for accession STM-061 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-078" />
+			<!-- Genome sequence for accession STM-078 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-076" />
+			<!-- Genome sequence for accession STM-076 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-087" />
+			<!-- Genome sequence for accession STM-087 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-022" />
+			<!-- Genome sequence for accession STM-022 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-130" />
+			<!-- Genome sequence for accession STM-130 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-128" />
+			<!-- Genome sequence for accession STM-128 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-155" />
+			<!-- Genome sequence for accession STM-155 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-149" />
+			<!-- Genome sequence for accession STM-149 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-165" />
+			<!-- Genome sequence for accession STM-165 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-154" />
+			<!-- Genome sequence for accession STM-154 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-150" />
+			<!-- Genome sequence for accession STM-150 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-244" />
+			<!-- Genome sequence for accession STM-244 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-208" />
+			<!-- Genome sequence for accession STM-208 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-232" />
+			<!-- Genome sequence for accession STM-232 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100116" />
+			<!-- Genome sequence for accession STM-A100116 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100155" />
+			<!-- Genome sequence for accession STM-A100155 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100136" />
+			<!-- Genome sequence for accession STM-A100136 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100119" />
+			<!-- Genome sequence for accession STM-A100119 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100197" />
+			<!-- Genome sequence for accession STM-A100197 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100162" />
+			<!-- Genome sequence for accession STM-A100162 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100147" />
+			<!-- Genome sequence for accession STM-A100147 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100150" />
+			<!-- Genome sequence for accession STM-A100150 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100193" />
+			<!-- Genome sequence for accession STM-A100193 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100288" />
+			<!-- Genome sequence for accession STM-A100288 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100426" />
+			<!-- Genome sequence for accession STM-A100426 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100403" />
+			<!-- Genome sequence for accession STM-A100403 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100413" />
+			<!-- Genome sequence for accession STM-A100413 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100427" />
+			<!-- Genome sequence for accession STM-A100427 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100386" />
+			<!-- Genome sequence for accession STM-A100386 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-A100480" />
+			<!-- Genome sequence for accession STM-A100480 -->
+			</sequence>
+		<sequence>
+			<taxon idref="STM-126" />
+			<!-- Genome sequence for accession STM-126 -->
+			</sequence>
+		<sequence>
+			<taxon idref="SEARCH-5902" />
+			<!-- Genome sequence for accession SEARCH-5902 -->
+			</sequence>
+		<sequence>
+			<taxon idref="ALSR-6046" />
+			<!-- Genome sequence for accession ALSR-6046 -->
+			</sequence>
+		<sequence>
+			<taxon idref="ALSR-6096" />
+			<!-- Genome sequence for accession ALSR-6096 -->
+			</sequence>
+	</alignment>
+
+
+	
+	
+	<patterns id="patterns" from="1" strip="false">
+		<alignment idref="alignment" />
+	</patterns>
+
+
+	
+	
+	<exponentialGrowth id="exponential" units="years">
+		<populationSize>
+			<parameter id="exponential.popSize" value="1.0" lower="0.0" />
+		</populationSize>
+		<growthRate>
+			<parameter id="exponential.growthRate" value="0.0" />
+		</growthRate>
+	</exponentialGrowth>
+
+
+	
+	<coalescentSimulator id="startingTree">
+		<taxa idref="taxa" />
+		<exponentialGrowth idref="exponential" />
+	</coalescentSimulator>
+
+
+	
+	<treeModel id="treeModel">
+		<coalescentTree idref="startingTree" />
+		<rootHeight>
+			<parameter id="treeModel.rootHeight" />
+		</rootHeight>
+		<nodeHeights internalNodes="true">
+			<parameter id="treeModel.internalNodeHeights" />
+		</nodeHeights>
+		<nodeHeights internalNodes="true" rootNode="true">
+			<parameter id="treeModel.allInternalNodeHeights" />
+		</nodeHeights>
+	</treeModel>
+
+	
+	<treeLengthStatistic id="treeLength">
+		<treeModel idref="treeModel" />
+	</treeLengthStatistic>
+
+	
+	<tmrcaStatistic id="age(root)" absolute="true">
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(CA_1)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="CA_1" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(mixed_1)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="mixed_1" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(mixed_2)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="mixed_2" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(mixed_2_subclade_1)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="mixed_2_subclade_1" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(mixed_2_subclade_2)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="mixed_2_subclade_2" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(CA_2)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="CA_2" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	<tmrcaStatistic id="tmrca(FL_1)" absolute="true" includeStem="false">
+		<mrca>
+			<taxa idref="FL_1" />
+		</mrca>
+		<treeModel idref="treeModel" />
+	</tmrcaStatistic>
+
+	
+	<coalescentLikelihood id="coalescent">
+		<model>
+			<exponentialGrowth idref="exponential" />
+		</model>
+		<populationTree>
+			<treeModel idref="treeModel" />
+		</populationTree>
+	</coalescentLikelihood>
+
+
+	
+	<discretizedBranchRates id="branchRates">
+		<treeModel idref="treeModel" />
+		<distribution>
+			<logNormalDistributionModel meanInRealSpace="true">
+				<mean>
+					<parameter id="ucld.mean" value="0.0013" lower="0.0" />
+				</mean>
+				<stdev>
+					<parameter id="ucld.stdev" value="0.0001" lower="0.0" />
+				</stdev>
+			</logNormalDistributionModel>
+		</distribution>
+		<rateCategories>
+			<parameter id="branchRates.categories" />
+		</rateCategories>
+	</discretizedBranchRates>
+
+	<rateStatistic id="meanRate" name="meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="branchRates" />
+	</rateStatistic>
+
+	<rateStatistic id="coefficientOfVariation" name="coefficientOfVariation" mode="coefficientOfVariation" internal="true" external="true">
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="branchRates" />
+	</rateStatistic>
+
+	<rateCovarianceStatistic id="covariance" name="covariance">
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="branchRates" />
+	</rateCovarianceStatistic>
+
+
+	
+	<HKYModel id="hky">
+		<frequencies>
+			<frequencyModel dataType="nucleotide">
+				<frequencies>
+					<parameter id="frequencies" value="0.288 0.178 0.188 0.346" />
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+		<kappa>
+			<parameter id="kappa" value="6.0" lower="0.0" />
+		</kappa>
+	</HKYModel>
+
+	
+	<siteModel id="siteModel">
+		<substitutionModel>
+			<HKYModel idref="hky" />
+		</substitutionModel>
+		<gammaShape gammaCategories="4">
+			<parameter id="alpha" value="0.0058" lower="0.0" />
+		</gammaShape>
+		<proportionInvariant>
+			<parameter id="pInv" value="0.8" lower="0.0" upper="1.0" />
+		</proportionInvariant>
+	</siteModel>
+
+	
+	<statistic id="mu" name="mu">
+		<siteModel idref="siteModel" />
+	</statistic>
+
+
+	
+	<treeDataLikelihood id="treeLikelihood" useAmbiguities="false">
+		<partition>
+			<patterns idref="patterns" />
+			<siteModel idref="siteModel" />
+		</partition>
+		<treeModel idref="treeModel" />
+		<discretizedBranchRates idref="branchRates" />
+	</treeDataLikelihood>
+
+
+	
+	<operators id="operators" optimizationSchedule="power">
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="kappa" />
+		</scaleOperator>
+		<deltaExchange delta="0.01" weight="1">
+			<parameter idref="frequencies" />
+		</deltaExchange>
+		<scaleOperator scaleFactor="0.75" weight="1">
+			<parameter idref="alpha" />
+		</scaleOperator>
+		<randomWalkOperator windowSize="0.75" weight="1" boundaryCondition="logit">
+			<parameter idref="pInv" />
+		</randomWalkOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="ucld.mean" />
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="ucld.stdev" />
+		</scaleOperator>
+		<upDownOperator scaleFactor="0.75" weight="3">
+			<up>
+				<parameter idref="treeModel.allInternalNodeHeights" />
+			</up>
+			<down>
+				<parameter idref="ucld.mean" />
+			</down>
+		</upDownOperator>
+		<swapOperator size="1" weight="10" autoOptimize="false">
+			<parameter idref="branchRates.categories" />
+		</swapOperator>
+		<uniformIntegerOperator weight="10">
+			<parameter idref="branchRates.categories" />
+		</uniformIntegerOperator>
+		<subtreeSlide size="1.0" gaussian="true" weight="30">
+			<treeModel idref="treeModel" />
+		</subtreeSlide>
+		<narrowExchange weight="30">
+			<treeModel idref="treeModel" />
+		</narrowExchange>
+		<wideExchange weight="3">
+			<treeModel idref="treeModel" />
+		</wideExchange>
+		<wilsonBalding weight="3">
+			<treeModel idref="treeModel" />
+		</wilsonBalding>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="treeModel.rootHeight" />
+		</scaleOperator>
+		<uniformOperator weight="30">
+			<parameter idref="treeModel.internalNodeHeights" />
+		</uniformOperator>
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="exponential.popSize" />
+		</scaleOperator>
+		<randomWalkOperator windowSize="1.0" weight="3">
+			<parameter idref="exponential.growthRate" />
+		</randomWalkOperator>
+	</operators>
+
+
+	
+	<mcmc id="mcmc" chainLength="100000000" autoOptimize="true" operatorAnalysis="2021-01-24_b117.ops">
+		<joint id="joint">
+			<prior id="prior">
+				<logNormalPrior mu="1.0" sigma="1.25" offset="0.0">
+					<parameter idref="kappa" />
+				</logNormalPrior>
+				<dirichletPrior alpha="1.0" sumsTo="1.0">
+					<parameter idref="frequencies" />
+				</dirichletPrior>
+				<exponentialPrior mean="0.5" offset="0.0">
+					<parameter idref="alpha" />
+				</exponentialPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="pInv" />
+				</uniformPrior>
+				<logNormalPrior mean="1.3E-3" stdev="0.2E-4">
+				  <parameter idref="ucld.mean" />
+				</logNormalPrior>
+				<exponentialPrior mean="0.3333333333333333" offset="0.0">
+					<parameter idref="ucld.stdev" />
+				</exponentialPrior>
+				<logNormalPrior mu="1.0" sigma="10.0" offset="0.0">
+					<parameter idref="exponential.popSize" />
+				</logNormalPrior>
+				<laplacePrior mean="0.0" scale="1.0">
+					<parameter idref="exponential.growthRate" />
+				</laplacePrior>
+				<coalescentLikelihood idref="coalescent" />
+
+
+				<discretizedBranchRates idref="branchRates" />
+			</prior>
+			<likelihood id="likelihood">
+				<treeDataLikelihood idref="treeLikelihood" />
+			</likelihood>
+		</joint>
+		<operators idref="operators" />
+
+		
+		<log id="screenLog" logEvery="10000">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint" />
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior" />
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood" />
+			</column>
+			<column label="age(root)" sf="6" width="12">
+				<tmrcaStatistic idref="age(root)" />
+			</column>
+			<column label="age(CA_1)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(CA_1)" />
+			</column>
+
+			<column label="age(mixed_1)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(mixed_1)" />
+			</column>
+
+			<column label="age(mixed_2)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(mixed_2)" />
+			</column>
+
+			<column label="age(mixed_2_subclade_1)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(mixed_2_subclade_1)" />
+			</column>
+
+			<column label="age(mixed_2_subclade_2)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(mixed_2_subclade_2)" />
+			</column>
+
+			<column label="age(CA_2)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(CA_2)" />
+			</column>
+
+			<column label="age(FL_1)" sf="6" width="12">
+				<tmrcaStatistic idref="tmrca(FL_1)" />
+			</column>
+			<column label="ucld.mean" sf="6" width="12">
+				<parameter idref="ucld.mean" />
+			</column>
+		</log>
+
+		
+		<log id="fileLog" logEvery="10000" fileName="2021-01-24_b117.log" overwrite="false">
+			<joint idref="joint" />
+			<prior idref="prior" />
+			<likelihood idref="likelihood" />
+			<parameter idref="treeModel.rootHeight" />
+			<tmrcaStatistic idref="age(root)" />
+			<tmrcaStatistic idref="tmrca(CA_1)" />
+			<tmrcaStatistic idref="tmrca(mixed_1)" />
+			<tmrcaStatistic idref="tmrca(mixed_2)" />
+			<tmrcaStatistic idref="tmrca(mixed_2_subclade_1)" />
+			<tmrcaStatistic idref="tmrca(mixed_2_subclade_2)" />
+			<tmrcaStatistic idref="tmrca(CA_2)" />
+			<tmrcaStatistic idref="tmrca(FL_1)" />
+			<treeLengthStatistic idref="treeLength" />
+			<parameter idref="exponential.popSize" />
+			<parameter idref="exponential.growthRate" />
+			<parameter idref="kappa" />
+			<parameter idref="frequencies" />
+			<parameter idref="alpha" />
+			<parameter idref="ucld.mean" />
+			<parameter idref="ucld.stdev" />
+			<rateStatistic idref="meanRate" />
+			<rateStatistic idref="coefficientOfVariation" />
+			<rateCovarianceStatistic idref="covariance" />
+			<treeDataLikelihood idref="treeLikelihood" />
+			<discretizedBranchRates idref="branchRates" />
+			<coalescentLikelihood idref="coalescent" />
+
+		</log>
+
+		
+		<logTree id="treeFileLog" logEvery="10000" nexusFormat="true" fileName="2021-01-24_b117.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel" />
+			<trait name="rate" tag="rate">
+				<discretizedBranchRates idref="branchRates" />
+			</trait>
+			<joint idref="joint" />
+		</logTree>
+	</mcmc>
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc" />
+		</property>
+	</report>
+
+</beast>
